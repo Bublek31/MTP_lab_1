@@ -81,3 +81,4 @@ git push -u origin feature/имя-задачи
 5) Нажать Create pull request.
 
 6) Написать в ВК что функция сделана.
+Gasan was here
